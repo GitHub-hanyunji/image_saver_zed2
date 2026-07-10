@@ -36,7 +36,7 @@ set(CMAKE_CXX_STANDARD 17)
 
 ```bash
 cd ~/your_ws/src
-git clone <이 저장소 URL>
+git clone https://github.com/GitHub-hanyunji/image_saver_zed2.git
 cd ~/your_ws
 colcon build --packages-select image_saver
 source install/setup.bash
